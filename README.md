@@ -80,7 +80,7 @@ The production application source code is private.
 
 ## Contact
 Questions, partnerships, or media?  
-**Mindful Diabetes Inc.** · hello@mindfuldiabetes.org
+**Mindful Diabetes Inc.** · jmschulz@mindfuldiabetes.org
 
 ---
 
