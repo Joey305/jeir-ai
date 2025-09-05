@@ -48,4 +48,40 @@
 
 *Production code is private. This repository is a public, docs-only showcase.*
 
-## Privac
+## Privacy & Safety
+- **No PHI required** to explore the assistant.
+- **Server-side keys only;** credentials are never exposed client-side.
+- Educational content only; **not medical advice.** Always talk to a licensed healthcare professional for diagnosis or treatment.
+
+(Optional) **Analytics/Status:** If you expose a public dashboard, link it here.  
+`[Live Analytics](https://your-analytics-url.example)` <!-- replace or remove -->
+
+## Screenshots
+- `assets/jeir-home.png` — Landing
+- `assets/jeir-login.png` — Login (Kinde)
+- `assets/jeir-chat.png` — Chat UI
+- `assets/jeir-answer.png` — Example answer
+
+> Drop your images into `/assets/` with the names above, or update the paths here.
+
+## Roadmap (Selected)
+- Multilingual responses (ES/EN)
+- More lifestyle templates (e.g., walking plans, grocery lists)
+- Expanded source surfacing & bibliographies
+- Classroom mode for workshops
+
+## Credits
+- **Lead:** Joseph-Michael Schulz (Mindful Diabetes Inc.)
+- **Mission:** Make metabolic & cognitive health knowledge accessible, practical, and hopeful.
+
+## License
+Documentation in this repository is released under the **MIT License**.  
+The production application source code is private.
+
+## Contact
+Questions, partnerships, or media?  
+**Mindful Diabetes Inc.** · hello@mindfuldiabetes.org
+
+---
+
+**Open JEIR:** https://www.mindfuldiabetes.ai/ (alt: https://jeir.ai)
